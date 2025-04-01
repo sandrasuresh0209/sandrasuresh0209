@@ -6,6 +6,6 @@
 - 👯 I'm currently working on building a machine learning model to predict ADHD in women!
 - 🤔 I enjoy collaborating with researchers to combine technology and healthcare. 
 - 💬 I'm currently learning about sentiment analysis!
-- 📫 How to reach me: ssures06@syr.edu
+- 📫 How to reach me: suresh.sandra64@gmail.com
 
 
